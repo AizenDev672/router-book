@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "El fin de la infancia",
+      "author": "Arthur C. Clake",
+      "genre":
+        "Ciencia ficcion,Distopia",
+      "numPages": 224,
+      "photo": "https://planetadelibrosco4.cdnstatics.com/usuaris/libros/fotos/364/m_libros/363407_portada_el-fin-de-la-infancia__202105251258.jpg",
+      "description": "Perteneciente a la tradicional y ya casi extinta <<literatura de ideas>> , El fin de la infancia tiene como tema la futura evolución del hombre. Una raza extraña llega a la Tierra y trae consigo paz, prosperidad..., y la inesperada tragedia de la perfección. ¿Qué seguirá a la extinción de la raza humana? Arthur C. Clarke, en un final de notable belleza, plantea la más alucinante de las hipótesis."
+    },
+    {
+      "id": 2,
+      "title": "El hombre en el castillo",
+      "author": "Philip K. Dick",
+      "genre": "Ciencia ficcion",
+      "numPages": 272,
+      "photo": "https://planetadelibrosco6.cdnstatics.com/usuaris/libros/fotos/356/m_libros/355376_portada_el-hombre-en-el-castillo_philip-k-dick_202101121606.jpg",
+      "description": "El Hombre en el castillo nos sumerge en un mundo alternativo en el cual el Eje ha derrotado a los Aliados en la Segunda Guerra Mundial y los Estados Unidos han sido invadidos y divididos entre los vencedores. Mientras los nazis se han anexionado la costa atlántica, donde han instaurado un régimen de terror, la costa pacífica permanece en manos japonesas."
+    },
+    {
+      "id": 3,
+      "title": "El pais de las mujeres",
+      "author": "Gioconda Belli",
+      "genre":"Novela contemporanea, Novela literia",
+      "numPages": 368,
+      "photo": "https://planetadelibrosco4.cdnstatics.com/usuaris/libros/fotos/384/m_libros/portada_el-pais-de-las-mujeres_gioconda-belli_202306161836.jpeg",
+      "description": "En Faguas –país imaginario que aparece en las novelas de Gioconda Belli– ha triunfado el PIE (Partido de la Izquierda Erótica). Sus integrantes tienen un propósito inclaudicable: cambiar el rumbo de su país, «poner orden en esta casa destartalada y sucia que es nuestra Patria». Pero nada de esto resulta fácil para la presidenta Viviana Sansón y sus ministras, sometidas a constantes ataques por parte de sus enemigos. ¿Podrán sobrellevarlo y sobrevivir? ¿Podrán convertir Fraguas en un país mejor?"
+    },
+    {
+      "id": 4,
+      "title": "Ubik",
+      "author": "Philip K. Dick",
+      "genre": "Ciencia ficcion",
+      "numPages": 228,
+      "photo": "https://planetadelibrosco1.cdnstatics.com/usuaris/libros/fotos/351/m_libros/350287_portada_ubik__202003051124.jpg",
+      "description": "Glen Runciter está muerto. ¿O lo están todos los demás? Lo que es seguro es que alguien ha muerto en una explosión organizada por los competidores de Runciter. De hecho, sus empleados asisten a un funeral. Pero durante el duelo comienzan a recibir mensajes desconcertantes, e incluso morbosos, de su jefe. Y el mundo a su alrededor comienza a desmoronarse de un modo que sugiere que a ellos tampoco les queda mucho tiempo."
+    },
+    {
+      "id": 5,
+      "title": "Todo",
+      "author": "Janne Teller",
+      "genre":
+        "Novela literia,Relatos",
+      "numPages": 152,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/382/m_libros/381130_todo_9786070724695.jpg",
+      "description": "El TODO es lo contrario de la NADA. La Nada es un lugar aterrador. Un lugar sin sentido, sin conexión con el verdadero ser humano, sin vida auténtica, sin amor real. Un lugar del que sólo es posible huir."
+    },
+    {
+      "id": 6,
+      "title": "Tierra contrafuturo",
+      "author": "Luis Carlos Barragan",
+      "genre":
+        "Ciencia ficcion,Space Opera",
+      "numPages": 440,
+      "photo": "https://planetadelibrosco0.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_tierra-contrafuturo_luis-carlos-barragan_202107012346.jpg",
+      "description": "El primer contacto extraterrestre ocurre en las selvas latinoamericanas. Dos colombianos sin nada que perder huyen en una nave espacial. Un par de años después, uno de ellos regresa para fundar una embajada interestelar, que promete traer tecnología y mano de obra alienígena a la Tierra. Ahora la humanidad tiene la oportunidad de convertirse en una sociedad tipo 1 y de ser parte del Directorio Interplanetario."
+    },
+    {
+      "id": 7,
+      "title": "Cae la noche tropical",
+      "author": "Manuel Puig",
+      "genre":
+        "Novela literaria,Novela contemporanea",
+      "photo": "https://planetadelibrosco9.cdnstatics.com/usuaris/libros/fotos/379/m_libros/portada_cae-la-noche-tropical_manuel-puig_202304262316.png",
+      "numPages": 288,
+      "description": "Río de Janeiro, mediados de la década de 1980. En el crepúsculo de sus vidas, dos hermanas argentinas evocan el pasado y departen acerca de los amores de una vecina más joven, también argentina, exiliada política, cuyas experiencias sentimentales conocemos al trasluz de sus chismes. Nada más conmovedor, apasionante y divertido que los diálogos de estas dos ancianas para mostrar hasta qué punto las historias de corazones simples no son más que melodramas."
+    }
+  ]
+}
