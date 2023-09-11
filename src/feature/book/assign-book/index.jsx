@@ -12,7 +12,7 @@ export function AssignBook() {
       {filtered.map((book, index) => (
         <div key={index} className="wrapper">
           <div className="wrapper-detail">
-            <img src={book.photo} alt={book.title} />
+            <img src={book.photo} alt={book.title} className="photo-book"/>
             <div className="item-wrapper">
               <h1>{book.title}</h1>
               <small>{book.author}</small>

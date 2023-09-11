@@ -22,3 +22,12 @@ small{
     font-weight: 700;
     font-style: oblique;
 }
+
+.img-photo {
+    width: 20rem;
+    border-radius: 4px;
+    aspect-ratio: 40/40;
+    display: block;
+    object-fit: cover;
+    background-color: #fff;
+}

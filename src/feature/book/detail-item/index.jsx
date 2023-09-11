@@ -5,7 +5,7 @@ export function DetailItem({ item }){
     return(
         <article className="wrapper">
             <div>
-                <img  src={item.photo} alt={item.title}/>
+                <img  src={item.photo} alt={item.title} className="img-photo"/>
             </div>
             <div className="content-description">
                 <strong>{item.title}</strong>
