@@ -4,8 +4,7 @@
       "id": 1,
       "title": "El fin de la infancia",
       "author": "Arthur C. Clake",
-      "genre":
-        "Ciencia ficcion,Distopia",
+      "genre": "Ciencia ficcion,Distopia",
       "numPages": 224,
       "photo": "https://planetadelibrosco4.cdnstatics.com/usuaris/libros/fotos/364/m_libros/363407_portada_el-fin-de-la-infancia__202105251258.jpg",
       "description": "Perteneciente a la tradicional y ya casi extinta <<literatura de ideas>> , El fin de la infancia tiene como tema la futura evolución del hombre. Una raza extraña llega a la Tierra y trae consigo paz, prosperidad..., y la inesperada tragedia de la perfección. ¿Qué seguirá a la extinción de la raza humana? Arthur C. Clarke, en un final de notable belleza, plantea la más alucinante de las hipótesis."
@@ -23,7 +22,7 @@
       "id": 3,
       "title": "El pais de las mujeres",
       "author": "Gioconda Belli",
-      "genre":"Novela contemporanea, Novela literia",
+      "genre": "Novela contemporanea, Novela literia",
       "numPages": 368,
       "photo": "https://planetadelibrosco4.cdnstatics.com/usuaris/libros/fotos/384/m_libros/portada_el-pais-de-las-mujeres_gioconda-belli_202306161836.jpeg",
       "description": "En Faguas –país imaginario que aparece en las novelas de Gioconda Belli– ha triunfado el PIE (Partido de la Izquierda Erótica). Sus integrantes tienen un propósito inclaudicable: cambiar el rumbo de su país, «poner orden en esta casa destartalada y sucia que es nuestra Patria». Pero nada de esto resulta fácil para la presidenta Viviana Sansón y sus ministras, sometidas a constantes ataques por parte de sus enemigos. ¿Podrán sobrellevarlo y sobrevivir? ¿Podrán convertir Fraguas en un país mejor?"
@@ -41,8 +40,7 @@
       "id": 5,
       "title": "Todo",
       "author": "Janne Teller",
-      "genre":
-        "Novela literia,Relatos",
+      "genre": "Novela literia,Relatos",
       "numPages": 152,
       "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/382/m_libros/381130_todo_9786070724695.jpg",
       "description": "El TODO es lo contrario de la NADA. La Nada es un lugar aterrador. Un lugar sin sentido, sin conexión con el verdadero ser humano, sin vida auténtica, sin amor real. Un lugar del que sólo es posible huir."
@@ -51,8 +49,7 @@
       "id": 6,
       "title": "Tierra contrafuturo",
       "author": "Luis Carlos Barragan",
-      "genre":
-        "Ciencia ficcion,Space Opera",
+      "genre": "Ciencia ficcion,Space Opera",
       "numPages": 440,
       "photo": "https://planetadelibrosco0.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_tierra-contrafuturo_luis-carlos-barragan_202107012346.jpg",
       "description": "El primer contacto extraterrestre ocurre en las selvas latinoamericanas. Dos colombianos sin nada que perder huyen en una nave espacial. Un par de años después, uno de ellos regresa para fundar una embajada interestelar, que promete traer tecnología y mano de obra alienígena a la Tierra. Ahora la humanidad tiene la oportunidad de convertirse en una sociedad tipo 1 y de ser parte del Directorio Interplanetario."
@@ -61,11 +58,91 @@
       "id": 7,
       "title": "Cae la noche tropical",
       "author": "Manuel Puig",
-      "genre":
-        "Novela literaria,Novela contemporanea",
+      "genre": "Novela literaria,Novela contemporanea",
       "photo": "https://planetadelibrosco9.cdnstatics.com/usuaris/libros/fotos/379/m_libros/portada_cae-la-noche-tropical_manuel-puig_202304262316.png",
       "numPages": 288,
       "description": "Río de Janeiro, mediados de la década de 1980. En el crepúsculo de sus vidas, dos hermanas argentinas evocan el pasado y departen acerca de los amores de una vecina más joven, también argentina, exiliada política, cuyas experiencias sentimentales conocemos al trasluz de sus chismes. Nada más conmovedor, apasionante y divertido que los diálogos de estas dos ancianas para mostrar hasta qué punto las historias de corazones simples no son más que melodramas."
+    },
+    {
+      "id": 8,
+      "title": "Cuentos completos",
+      "author": "Mario Mendoza",
+      "genre": "Novela literaria, Relatos",
+      "numPages": 328,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/382/original/portada_cuentos-completos_mario-mendoza_202306272342.jpg",
+      "description": "Mario Mendoza comenzó su carrera literaria como cuentista y por primera vez sus lectores tendrán la oportunidad de tener en un solo volumen todos los textos de este género que ha escrito y publicado."
+    },
+    {
+      "id": 9,
+      "title": "La mala costumbre",
+      "author": "Alana S. Portero",
+      "genre": "Novela contemporanea, Novela literaria",
+      "numPages": 256,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/379/original/378960_portada_la-mala-costumbre_alana-s-portero_202303281018.jpg",
+      "description": "El desgarrador viaje vital de una niña atrapada en un cuerpo que no sabe habitar. Una novela deslumbrante que no se parece a nada que hayas leído. Un fenómeno literario internacional antes de su publicación."
+    },
+    {
+      "id": 10,
+      "title": "Crónicas marcianas",
+      "author": "Ray Bradbury",
+      "genre": "Ciencia ficcion",
+      "numPages": 352,
+      "photo": "https://planetadelibrosco1.cdnstatics.com/usuaris/libros/fotos/311/m_libros/310092_portada_cronicas-marcianas_ray-bradbury_201906251540.jpg",
+      "description": "Recopilación de relatos que recogen la crónica de la colonización de Marte por parte de una humanidad que huye de un mundo al borde de la destrucción. Los colonos llevan consigo sus deseos más íntimos y el sueño de reproducir en el Planeta Rojo una civilización de perritos calientes, cómodos sofás y limonada en el porche al atardecer. Pero su equipaje incluye también los miedos ancestrales, que se traducen en odio a lo diferente, y las enfermedades que diezmarán a los marcianos"
+    },
+    {
+      "id": 11,
+      "title": "Divorcio",
+      "author": "Ricardo Lisias",
+      "genre": "Novela literaria, No ficcion novelada, Novela contemporanea",
+      "numPages": 256,
+      "photo": "https://planetadelibrosco9.cdnstatics.com/usuaris/libros/fotos/379/m_libros/portada_divorcio_ricardo-lisias_202305050221.jpg",
+      "description": "Ricardo Lísias escribe porque presenció su propia muerte, escribe mientras corre porque no sabe qué hacer con la rabia, escribe porque un grupo de periodistas le dijo que no lo hiciera, que no escribiera más. Escribe porque la elite brasileña lo amenazó con hacer “justicia”, escribe porque su exesposa lo destruía en su diario mientras él dormía. Ricardo Lísias narra este libro porque después de cuatro días sin dormir, creyó que había muerto y debe escribir para recuperar la piel."
+    },
+    {
+      "id": 12,
+      "title": "La naranja mecánica",
+      "author": "Anthony Burgess",
+      "genre": "Ciencia ficcion",
+      "numPages": 224,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/256/original/portada_la-naranja-mecanica_anthony-burgess_201706280147.jpg",
+      "description": "La historia del nadsat-adolescente Alex y sus tres drugosamigos en un mundo de crueldad y destrucción. Alex tiene, según Burgess, “los principales atributos humanos: amor a la agresión, amor al lenguaje, amor a la belleza. Pero es joven y no ha entendido aún la verdadera importancia de la libertad, así que la disfruta de un modo violento. En cierto sentido vive en el Edén, y sólo cuando cae (como en verdad le ocurre, desde una ventana) parece capaz de llegar a transformase en un verdadero ser humano”."
+    },
+    {
+      "id": 13,
+      "title": "¿Sueñan los androides con ovejas eléctricas? (Blade Runner)",
+      "author": "Philip K. Dick",
+      "genre": "Ciencia ficcion",
+      "numPages": 288,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/311/original/310098_portada_suenan-los-androides-con-ovejas-electricas_philip-k-dick_201906201221.jpg",
+      "description": "En el año 2021 la guerra mundial ha exterminado a millones de personas. Los supervivientes codician cualquier criatura viva, y aquellos que no pueden permitirse pagar por ellas se ven obligados a adquirir réplicas increíblemente realistas."
+    },
+    {
+      "id": 14,
+      "title": "Lavinia",
+      "author": "Ursula K. Le Guin",
+      "genre": "Fantasia",
+      "numPages": 352,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/353/original/352093_portada_lavinia_ursula-k-le-guin_202011121255.jpg",
+      "description": "Lavinia crece sin conocer otra cosa que la paz y la libertad hasta la llegada de sus pretendientes. Su madre exige que contraiga matrimonio con el apuesto y ambicioso Turno. Pero los augurios y las profecías de los manantiales sagrados afirman que deberá casarse con un extranjero, que provocará una guerra y que su marido no vivirá demasiado tiempo."
+    },
+    {
+      "id": 15,
+      "title": "El pergamino de la seducción",
+      "author": "Gioconda Belli",
+      "genre": "Novela literaria, Novela contemporanea",
+      "numPages": 416,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/371/original/portada_el-pergamino-de-la-seduccion_gioconda-belli_202211212357.png",
+      "description": "La reina Juana de Castilla es el personaje más carismático de un período crucial de la historia de España. Hermosa, inteligente, segura y poderosa, se rebeló y luchó sin descanso contra la represión y los abusos. En 1509, con veintinueve años, fue declarada loca y encerrada en Tordesillas, donde permaneció hasta su muerte en 1555. Cuatro siglos más tarde, a través de Lucía, una joven de asombroso parecido con la antigua reina, un historiador busca resolver el enigma de quien fuera más conocida como Juana la Loca."
+    },
+    {
+      "id": 16,
+      "title": "El peso de los demás",
+      "author": "Juana La Paz",
+      "genre": "Novela erotica",
+      "numPages": 252,
+      "photo": "https://planetadelibrosco2.cdnstatics.com/usuaris/libros/fotos/316/original/portada_el-peso-de-los-demas__202003261642.jpg",
+      "description": "Juana siempre soñó con tener una familia feliz. Cuando finalmente lo consiguió, se dio cuenta de que necesitaba algo más: sexo y conexión con otra persona que no fuera su esposo. Esa necesidad imperiosa y el deseo galopante no eran, sin embargo, suficientes para provocar un divorcio. ¿Y si tuviera una relación abierta, un amante?¿Y si fuera capaz de proponérselo al hombre de su vida? Este diario de una mujer en tránsito de buscar placer responsable y de una sexualidad más abierta demuestra cómo no siempre lo que soñamos resulta como lo imaginábamos. ¿Mejor? ¿Peor? Atrévase a seguir a Juana por este laberinto de pasiones en el cual encontrará respuestas y mucha, pero mucha aventura."
     }
   ]
 }
