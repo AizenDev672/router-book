@@ -9,7 +9,11 @@ export function useFilters(){
     const { filters, setFilters  } = useContext(FiltersContext);
 
     const filterBooks = (books) => {
-        return books.filter((book) => { return ( book.genre !== "All" ) });
+        if(filters.search != "All"){
+            return books.filter((book) => { return ( book.title === filters.search ) });
+        }else{
+            return books.filter((book) => { return ( book.genre !== "All" ) });
+        }
     }
 
     const queryBook = (id) => {

@@ -54,3 +54,28 @@ strong{
     margin: auto;
     gap: 20px;
 }
+
+.btn-plus{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    background-color: #073b4c;
+    width: 2.3rem;
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.author-book{
+    color: #469d89;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.link-btn{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}

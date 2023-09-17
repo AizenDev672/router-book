@@ -22,6 +22,18 @@ const UPDATE_STATE_BY_ACTION = {
 
         updateLocalStorage(newState);
         return newState;
+    },
+
+    [LIST_ACTION_TYPES.REMOVE_FROM_LIST]: (state, action) => {
+        const { id } = action.payload;
+        const newState = state.filter((item) => item.id !== id);
+        updateLocalStorage(newState);
+        return newState;
+    },
+
+    [LIST_ACTION_TYPES.CLEAR_LIST]: () => {
+        updateLocalStorage([]);
+        return [];
     }
 }
 

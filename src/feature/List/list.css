@@ -1,0 +1,29 @@
+.list-aside{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+    gap: 20px;
+}
+
+.card-list{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.list-author{
+    color: #00b4d8;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.warning-empty{
+    color: #f8f9fa;
+    font-size: 2rem;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.transition-list{
+    transition: all 500ms ease-in-out;
+}

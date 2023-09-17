@@ -4,9 +4,7 @@ export const FiltersContext = createContext();
 
 export function FiltersProvider({ children }) {
   const [filters, setFilters] = useState({
-    title: "",
-    author: "",
-    genre: "All",
+    search: "All",
   });
 
   return (
